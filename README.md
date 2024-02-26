@@ -9,3 +9,5 @@
 > [Анализ датасетов](marketing_analytics_students.ipynb)
 >
 > [Изучение библиотеки pandas](pandas.ipynb)
+>
+> [Домашняя работа](Дз.ipynb)
