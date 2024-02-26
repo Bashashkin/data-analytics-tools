@@ -3,4 +3,5 @@
 
 >
 > [Работа с kaggle](kaggle.ipynb)
+>
 > [Визуализация с помощью Yandex DataLens](yandexdatalens.png)
