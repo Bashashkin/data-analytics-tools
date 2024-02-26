@@ -2,4 +2,5 @@
 Лабораторные работы по дисциплине "Инструменты аналитика данных"
 
 >
-> [Работа с kaggle и YandexDataLens](06_11_1.ipynb)
+> [Работа с kaggle](kaggle.ipynb)
+> [Визуализация с помощью Yandex DataLens](yandexdatalens.png)
